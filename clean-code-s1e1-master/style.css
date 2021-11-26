@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.tasks-info { text-align: center;
+
+.tasks-info { 
+    text-align: center;
 }
+
 }
 .tasks {
     display: block;
