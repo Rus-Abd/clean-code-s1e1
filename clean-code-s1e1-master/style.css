@@ -44,9 +44,7 @@ ul {
 li {
     list-style:none;
 }
-/* input,button{
-    outline:none;
-} */
+
 button {
     background: none;
     border: 0px;
@@ -119,7 +117,7 @@ li > label {
     width: 226px;
 }
 li >    input[type="text"] {
-    width: 226px
+    width: 226px;
 }
 .delete img {
     height: 2em;
@@ -138,7 +136,7 @@ li >    input[type="text"] {
 
 /* Edit Task */
  li input[type=text] {
-    display:none
+    display:none;
 }
 
 .task-edit input[type=text] {
